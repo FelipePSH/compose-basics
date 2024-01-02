@@ -6,4 +6,13 @@
     <string name="title_activity_task_manager">TaskManagerActivity</string>
     <string name="all_tasks_completed">All tasks completed</string>
     <string name="nice_work">Nice work!</string>
+    <string name="title_activity_compose_quadrant_screen">ComposeQuadrantScreen</string>
+    <string name="text_composable_title">Text composable</string>
+    <string name="first_description">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="image_composable_title">Image composable</string>
+    <string name="second_description">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="row_composable">Row composable</string>
+    <string name="third_description">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="column_composable">Column composable</string>
+    <string name="fourth_description">A layout composable that places its children in a vertical sequence.</string>
 </resources>
